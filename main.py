@@ -40,7 +40,6 @@ def main():
 		# print in format
 		print(f'{_date} {_description}\n{_from} -> {_to}\n{_sum} {_currency}\n')
 
-print("Hello")
 
 if __name__ == '__main__':
 	main()
